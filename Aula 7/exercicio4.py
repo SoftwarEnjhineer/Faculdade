@@ -39,4 +39,4 @@ print(f'Quantidade de pessoas com idade superior a 50 anos: {quantPessoasSup50}\
 print(f'A altura média entre 10 e 20 anos: {media}\n')
 
 print('O percentual de pessoas com peso inferior à 60 quilos: ' +
-      format(quantPessoasMenor60Kg * 100 / quantPessoas, '.2f'))
+format(quantPessoasMenor60Kg * 100 / quantPessoas, '.2f'))
