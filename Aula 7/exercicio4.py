@@ -34,9 +34,7 @@ for i in range(0, quantPessoas):
 if quantPessoas10a20 > 0:
     media = somaAltura / quantPessoas10a20
 
-print(
-    f'Quantidade de pessoas com idade superior a 50 anos: {quantPessoasSup50}\n'
-)
+print(f'Quantidade de pessoas com idade superior a 50 anos: {quantPessoasSup50}\n')
 
 print(f'A altura média entre 10 e 20 anos: {media}\n')
 
