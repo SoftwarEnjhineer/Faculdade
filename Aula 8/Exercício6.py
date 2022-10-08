@@ -6,12 +6,12 @@
 # N = 5
 # Resultado = 1+2+3+4+5 = 15
 
-i = 1
-soma = 0
-
 numero = int(input('Digite um número: '))
 
-while i < numero:
-    soma += i
-    i = i+1
+soma = 0
+
+i = 1
+while i <= numero:
+    soma = soma + i
+    i = i + 1
 print(soma)

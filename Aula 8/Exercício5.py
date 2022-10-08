@@ -2,12 +2,14 @@
 # positivos informados pelo usuário. Obs: utilizar somente as operações
 # aritméticas básicas (multiplicação, divisão, soma e subtração).
 
+
+x = int(input('Digite o número base: '))
+n = int(input('Digite o expoente: '))
+
+potencia = 1
 i = 0
-numeroBase = int(input('Digite o número base: '))
-expoente = int(input('Digite o expoente: '))
 
-
-while i < expoente:
-    
-    i = i+1
-print()
+while i != n:
+    potencia = potencia * x
+    i = i + 1
+print(potencia)
