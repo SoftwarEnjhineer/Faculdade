@@ -7,4 +7,5 @@ while i < 101:
     if i %5 == 0:
         soma += 1
     i = i+1
+    
 print(soma)
