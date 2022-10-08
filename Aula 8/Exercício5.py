@@ -12,4 +12,5 @@ i = 0
 while i != n:
     potencia = potencia * x
     i = i + 1
+    
 print(potencia)

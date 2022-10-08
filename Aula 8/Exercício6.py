@@ -14,4 +14,5 @@ i = 1
 while i <= numero:
     soma = soma + i
     i = i + 1
+    
 print(soma)
