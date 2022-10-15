@@ -1,0 +1,1 @@
+# b) A lista de valores, ordenada de forma decrescente.

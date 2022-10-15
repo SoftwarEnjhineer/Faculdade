@@ -1,0 +1,1 @@
+# c) Se o valor 5 foi digitado e está ou não na lista.
