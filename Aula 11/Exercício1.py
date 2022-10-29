@@ -39,7 +39,6 @@ print('Números múltiplos de 3:',list_Multiple3)
 print('Números múltiplos de 4:',list_Multiple4)
 
 # Lista reversa
-
 print('lista inversa:',list[::-1]) # método 1 para inverter
 
 list.reverse() # método 2 para inverter
