@@ -1,5 +1,6 @@
 #Escrever um programa que o usuário digite 5 valores, um de cada vez, e conta quantos destes 
 #valores são negativos, imprimindo esta informação na tela.
+
 count = 0
 
 for i in range(0, 5):

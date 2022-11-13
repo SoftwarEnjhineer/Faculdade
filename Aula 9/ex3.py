@@ -18,7 +18,7 @@ while choice == 'S':
 
 print(f'Números digitados na lista: {len(list)}')
 
-print(f'A lista em ordem descrescente: {list}')
+print(f'A lista em ordem decrescente: {list}')
 
 if 5 in list:
     print('Contém o número 5 na lista')

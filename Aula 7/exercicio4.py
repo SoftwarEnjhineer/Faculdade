@@ -1,8 +1,9 @@
-#Escreva um programa em linguagem python que leia a idade, a altura e o peso de 5 pessoas.
-#O programa deve calcular e mostrar:
-#a. A quantidade de pessoas com idade superior a 50 anos.
-#b. A altura média das pessoas com idade entre 10 e 20 anos.
-#c. O percentual de pessoas com peso inferior à 60 quilos.
+# Escreva um programa em linguagem python que leia a idade, a altura e o peso de 5 pessoas.
+# O programa deve calcular e mostrar:
+
+# a. A quantidade de pessoas com idade superior a 50 anos.
+# b. A altura média das pessoas com idade entre 10 e 20 anos.
+# c. O percentual de pessoas com peso inferior à 60 quilos.
 
 quantPessoas = 10
 

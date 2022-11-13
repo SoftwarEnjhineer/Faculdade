@@ -3,6 +3,9 @@
 # substring e qual é o tamanho da substring.
 
 string1 = input('Digite um texto: ')
+
 inicio = int(input('De qual posição a substring deve ser iniciada? '))
+
 tamanhoString = int(input('Qual o tamanho da string? '))
+
 print(string1[inicio:tamanhoString])
